@@ -27,6 +27,7 @@
 .escola{
     background-image: linear-gradient(#FFFFFF,#b0eb8f );
     display: flex;
+    justify-content: center;
 }
 .escola-div-conteudo{
     width: 45%;
